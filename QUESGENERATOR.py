@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 import random
-from QSS import *
+from QSS import * #YOU CAN FIND THIS FILE IN THE SAME RESPIRATORY 😁
 
 def close():
     user_input =messagebox.askyesno("DO YOU WANT TO END?","JARHE HO?")
